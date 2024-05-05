@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Ribesh primer Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
